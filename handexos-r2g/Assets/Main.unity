@@ -1047,7 +1047,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68850c8858ca05a49a1339c81ed5b8a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trialObject: {fileID: 1062698109999741327, guid: a31c5f597f311c842a7eef1d51eaa641,
+  trialObject1: {fileID: 1062698109999741327, guid: aeba2e7cd3fea8549a613088fa3804bb,
+    type: 3}
+  trialObject2: {fileID: 1062698109999741327, guid: a31c5f597f311c842a7eef1d51eaa641,
+    type: 3}
+  trialObject3: {fileID: 1062698109999741327, guid: 02ee338b1f81735468d13e3b30ee95bb,
     type: 3}
   spawnpoint: {fileID: 2128202830}
 --- !u!4 &903678569
